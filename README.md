@@ -4,13 +4,13 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="HTML logo"  />
+  <img src="https://skillicons.dev/icons?i=HTML" height="60" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="PHP logo"  />
+  <img src="https://skillicons.dev/icons?i=PHP" height="60" alt="PHP logo"  />
 </div>
 
 ###
