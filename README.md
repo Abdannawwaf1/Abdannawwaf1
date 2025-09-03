@@ -8,9 +8,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=HTML" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=PHP" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
 </div>
 
 ###
