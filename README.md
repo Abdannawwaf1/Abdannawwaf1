@@ -6,13 +6,14 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
 </div>
 
+<div>
+  |No   |Tgl   |Praktikum ke   |Topik   |Laporan   |Repo   |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+|1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |   |   |
+</div>
 ###
