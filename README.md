@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center">I'm Abdan Nawwaf El Hibban</h2>
 <h3 align="center">An Informatics Student</h3>
 
 ###
@@ -13,12 +14,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdannawwaf1/Abdannawwaf1/output/snake.svg" alt="Snake animation" />
-
 
 ###
