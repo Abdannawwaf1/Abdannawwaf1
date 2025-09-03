@@ -3,13 +3,16 @@
 <h3 align="center">An Informatics Student</h3>
 
 ###
-<h4 align="center">Now </h4>
+<h4 align="center">Now on learning mobile programming using </h4>
 <div align="center">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
 </div>
+
+<h4 align="center">class mobile programming practicum B</h4>
+<h4 align="center">NIM 230605110066 </h4>
 
   |No   |Tgl   |Praktikum ke   |Topik   |Laporan   |Repo   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
