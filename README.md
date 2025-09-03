@@ -11,8 +11,12 @@
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
 </div>
 
+###
+
 <h4 align="center">class mobile programming practicum B</h4>
 <h4 align="center">NIM 230605110066 </h4>
+
+###
 
   |No   |Tgl   |Praktikum ke   |Topik   |Laporan   |Repo   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
