@@ -15,3 +15,10 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abdannawwaf1/Abdannawwaf1/output/snake.svg" alt="Snake animation" />
+
+
+###
