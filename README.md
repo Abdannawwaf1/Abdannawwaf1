@@ -21,6 +21,6 @@
 
   |No   |Tgl   |Praktikum ke   |Topik   |Laporan   |Repo   |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |   |   |
+|1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |[Laporan 1](https://docs.google.com/document/d/1mhKYndVAu5TEQQJxE9DRcYpHpEv0yCld/edit?usp=sharing&ouid=104451636129365296931&rtpof=true&sd=true "Laporan 1")   |[Repo 1](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum1 "Repo 1")   |
 
 ###
