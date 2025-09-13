@@ -23,5 +23,7 @@
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |1   |03-09-2025   |01   |Pengenalan Mobile Programming dan Setup Lingkungan   |[Laporan 1](https://docs.google.com/document/d/1mhKYndVAu5TEQQJxE9DRcYpHpEv0yCld/edit?usp=sharing&ouid=104451636129365296931&rtpof=true&sd=true "Laporan 1")   |[Repo 1](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum1 "Repo 1")   |
 |2   |03-09-2025   |02   |Widget *Row* dan *Column*   |[Laporan 2](https://docs.google.com/document/d/1T198tnaJr29Yeezvhjb07ez_Nz0poDWt/edit?usp=drive_link&ouid=104451636129365296931&rtpof=true&sd=true "Laporan 2")   |[Repo 2](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum2 "Repo 2")   |
+|3   |10-09-2025   |03   |Pengaturan Layout Row dan Column di Flutter   |[Laporan 3](https://docs.google.com/document/d/1DT4bVfqzSzbjkK6nxIlcmhCNFGIRso9f/edit?usp=drive_link&ouid=104451636129365296931&rtpof=true&sd=true "Laporan 3")   |[Repo 3](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum3 "Repo 3")   |
+|4   |10-09-2025   |04   |Widget Flexible dan Expanded   |[Laporan 4](https://docs.google.com/document/d/1rd5xeQygV0yojmqgwiZ09XHY3ws_0PEM/edit?usp=drive_link&ouid=104451636129365296931&rtpof=true&sd=true "Laporan 4")   |[Repo 4](https://github.com/Abdannawwaf1/Mobile-Programming-Practicum/tree/main/praktikum4 "Repo 4")   |
 
 ###
